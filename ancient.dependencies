@@ -1,0 +1,14 @@
+[
+  {
+    "remote": "github",
+    "repository": "zaid2sultan/android_kernel_xiaomi_lavender-ancient",
+    "target_path": "kernel/xiaomi/lavender",
+    "branch": "13.0"
+  },
+  {
+    "remote": "github",
+    "repository": "zaid2sultan/android_vendor_xiaomi_lavender-ancient",
+    "target_path": "vendor/xiaomi/lavender",
+    "branch": "13.0"
+  }
+]
